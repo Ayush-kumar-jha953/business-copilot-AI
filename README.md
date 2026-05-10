@@ -29,4 +29,4 @@ A smart business assistant AI agent built with Python and Groq LLM.
 4. Open the Gradio public link
 
 ## 👨‍💻 Built by
-[Your Name] — Data Science student passionate about AI agents
+[Ayush Jha] — Data Science student passionate about AI agents
